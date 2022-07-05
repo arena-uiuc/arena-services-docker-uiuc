@@ -2,8 +2,8 @@
    
 [submodule "ARENA-core"]
 	path = ARENA-core
-	url = https://github.com/diegoac2/ARENA-core-uiuc
-	branch = daniel-dev
+	url = https://github.com/arena-uiuc/ARENA-core-uiuc.git
+	branch = develop
 [submodule "arena-persist"]
 	path = arena-persist
 	url = https://github.com/conix-center/arena-persist.git 
